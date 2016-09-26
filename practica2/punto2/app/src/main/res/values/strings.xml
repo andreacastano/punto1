@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">punto2</string>
+    <string name="Numero1">numero</string>
+    <string name="Numero2">numero_2</string>
+    <string name="suma">Suma</string>
+    <string name="resta">Resta</string>
+    <string name="multiplicacion">Multiplicacion</string>
+    <string name="division">Division</string>
+</resources>
